@@ -1,2 +1,3 @@
 # test
-odin project
+My first itHub repo!
+Hello Odin!
